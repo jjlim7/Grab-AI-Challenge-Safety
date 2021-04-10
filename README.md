@@ -1,9 +1,10 @@
 # Grab AI For S.E.A.
 
-> 💡 AI For S.E.A. is an online challenge held by Grab to search for talented, innovative technologies across Southeast Asia. 
+🏆 AI For S.E.A. is an online challenge held by Grab to search for talented, innovative technologies across Southeast Asia. 
 In this challenge, partcipants are tasked to select and tackle one problem statement (as shown in the image below) by leveraging data science and AI technologies.
 
 ![image](https://user-images.githubusercontent.com/38095617/114260887-1950ac80-9a0a-11eb-92d9-1c410fa40208.png)
+<br/><br/>
 
 ## Problem Statement: How Do We Detect Dangerous Driving?
 
@@ -11,7 +12,7 @@ In this challenge, partcipants are tasked to select and tackle one problem state
 
 ## Project Objective
 
-> My objective is to build an end-to-end machine learning pipeline based on telematics data to detect dangerous driving on the road.
+💡 My objective is to build an end-to-end machine learning pipeline based on telematics data to detect dangerous driving on the road.
 
 # Solution
 
