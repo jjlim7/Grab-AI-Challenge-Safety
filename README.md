@@ -1,11 +1,12 @@
 # Grab AI For S.E.A.
 
 > 💡 AI For S.E.A. is an online challenge held by Grab to search for talented, innovative technologies across Southeast Asia. 
-In this challenge, partcipants are tasked to select and tackle one problem statement (as shown in the image below).
+In this challenge, partcipants are tasked to select and tackle one problem statement (as shown in the image below) by leveraging data science and AI technologies.
 
 ![image](https://user-images.githubusercontent.com/38095617/114260887-1950ac80-9a0a-11eb-92d9-1c410fa40208.png)
 
-# Solution
+# Solution For Safety Problem
+![image](https://user-images.githubusercontent.com/38095617/114262041-51f38480-9a10-11eb-932a-648534224042.png)
 
 ## Exploratory Data Analysis
 To start off the challenge, I began by performing exploratory data analysis to find out the class distribution as well as what constitutes safe or dangerous driving.
