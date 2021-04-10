@@ -5,8 +5,15 @@ In this challenge, partcipants are tasked to select and tackle one problem state
 
 ![image](https://user-images.githubusercontent.com/38095617/114260887-1950ac80-9a0a-11eb-92d9-1c410fa40208.png)
 
-# Solution For Safety Problem
+## Problem Statement: How Do We Detect Dangerous Driving?
+
 ![image](https://user-images.githubusercontent.com/38095617/114262041-51f38480-9a10-11eb-932a-648534224042.png)
+
+## Project Objective
+
+> My objective is to build an end-to-end machine learning pipeline based on telematics data to detect dangerous driving on the road.
+
+# Solution
 
 ## Exploratory Data Analysis
 To start off the challenge, I began by performing exploratory data analysis to find out the class distribution as well as what constitutes safe or dangerous driving.
