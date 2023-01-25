@@ -20,7 +20,8 @@ In this challenge, partcipants are tasked to select and tackle one problem state
 To start off the challenge, I began by performing exploratory data analysis to find out the class distribution as well as what constitutes safe or dangerous driving.
 
 ### Sample Dataset
-- This is an example of the dataset provided
+Full Dataset is available [here](https://drive.google.com/file/d/1tnthlPWJo0hnGc3_Xavlt1nlqvKdqryK/view?usp=sharing)
+- Below is an example of the dataset provided
 
 ![image](https://user-images.githubusercontent.com/38095617/114261403-ed82f600-9a0c-11eb-8b4d-8aebadc49952.png)
    
